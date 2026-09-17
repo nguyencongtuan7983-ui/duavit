@@ -1,0 +1,6 @@
+{
+  "name": "LUCKY WHEELS - Đua Vịt Gọi Tên",
+  "description": "Ứng dụng gọi tên học sinh ngẫu nhiên phong cách đua vịt kịch tính, chọn thời gian đua linh hoạt và tự động loại tên học sinh đã gọi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
